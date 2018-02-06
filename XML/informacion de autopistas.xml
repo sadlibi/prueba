@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopistas>
+
+    <evento1>
+        <señal> Señal de accidente </señal>
+        <puntokm> 42200 </puntokm>
+        <nombrevia> A-49 </nombrevia>
+        <sentido> Huelva </sentido>
+        <cortevia> 1 carril </cortevia>
+        <fechahora> Fecha y hora del evento </fechahora>
+        <retencion> Si </retencion>
+        <kmretencion> 8 km </kmretencion>
+    </evento1>
+    <evento2>
+        <señal> Señal de retencion </señal>
+        <puntokm> 550 </puntokm>
+        <nombrevia> A-4 </nombrevia>
+        <sentido> Sevilla </sentido>
+        <fechahora> Fecha y hora del evento </fechahora>
+        <retencion> Si </retencion>
+        <kmretencion> 3 km </kmretencion>
+    </evento2>
+</autopistas>
