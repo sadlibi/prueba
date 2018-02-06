@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graficovectorial>
+    <rectangulo>
+        <altura coordenadaY="120"></altura>
+        <anchura coordenadaX="150"></anchura>
+        <vertice coordenadaX,Y="150,400"></vertice>
+    </rectangulo>
+    <circunferencia>
+        <centro coordenadaX,Y="400,400"></centro>
+        <radio radioenpixeles="100"></radio>
+    </circunferencia>
+    <linearecta>
+        <inicio coordenadaX,Y="550,270"></inicio>
+        <fin coordenadaX,Y="400,400"></fin>
+    </linearecta>
+</graficovectorial>
