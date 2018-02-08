@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<biblioteca>
+
+    <libro Situacion="Préstamo">
+        
+        <fecha F.Prestamo="06/JUN/2016">
+            
+            <código C.ISBN="978-978-25620-2-1"></código>
+            <nombre> Una columna de fuego </nombre>
+            <editorial> Plaza Janes </editorial>
+            <añodp A.Publicacion="12/SEP/2017"></añodp>
+            <autor> Ken Follet </autor>
+            <ejemplar NºDe_ejemplar="3"></ejemplar>
+            <prestamo C.Socio="765445">
+                
+                <datos_socio>
+                    
+                    <DNI> 67764533D </DNI>
+                    <nombre> Juan Leopoldo Valle Hernandez </nombre>
+                    <direccion> C/Juan Ramón Jimenez Nº14 </direccion>
+                    
+                </datos_socio>
+                
+            </prestamo>
+            
+        </fecha>
+        
+    </libro>
+
+</biblioteca>

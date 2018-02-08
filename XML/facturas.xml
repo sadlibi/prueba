@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+    <codigo codigofac="5"></codigo>
+    <fecha fechaemision="25/1/2016"></fecha>
+    <cliente>
+        <dnicliente> 87665634Q </dnicliente>
+        <nombrecliente> Juan Carrasco </nombrecliente>
+        <dircliente> C/ Amapolas Nº14</dircliente>
+        <codpostalcli> 41700 </codpostalcli>
+        <poblacion> Dos Hermanas, Sevilla </poblacion>
+        <productoscomprados total="1 Producto">
+        <producto1>
+            <denominacion nombre="Tomate"></denominacion>
+            <cantidad cantprod="1 Kg"></cantidad>
+            <precio preciounidad="0,60"></precio>
+        </producto1>
+    </productoscomprados>
+    </cliente>
+</factura>
